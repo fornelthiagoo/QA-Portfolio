@@ -1,23 +1,32 @@
 # QA Engineering Portfolio - Thiago Fornel Rodrigues
 
-Bem-vindo ao meu portfólio de Quality Assurance. Aqui apresento os projetos práticos que desenvolvi, focados em testes manuais, automação de API e documentação técnica.
-
-## 🚀 Projetos em Destaque
-
-### 🌐 Conduit (Plataforma Web & API)
-- **Foco:** API testing, Bug reporting e Integration testing.
-- **Evidências:** - [Resultados de Testes API no Postman](Postman_API_Test_Conduit.png.png)
-  - [Bug Report detalhado no Jira](Jira_Bug_Detail_Conduit.png.png)
-  - [Visão Geral do TestRail](TestRail_Project_Overview.png.png)
-
-### 🛒 JPetStore (E-commerce)
-- **Foco:** Planejamento de testes funcionais e escrita de casos de teste.
-- **Evidências:** - [Plano de Testes e Bug Report (PDF)](JPetStore_Bug_Report.pdf)
-  - [Checklist de Testes (PDF)](Conduit_Test_Checklist.pdf)
-
-## 🛠️ Technical Stack
-- **Management:** Jira, TestRail, Agile Methodologies (Scrum).
-- **Technical:** SQL, Postman (API), HTML/CSS Selectors.
+Engenheiro de QA em transição de carreira, combinando sólida experiência em estratégia de negócios com competências técnicas em garantia de qualidade de software.
 
 ---
-📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/thiagofornel/) | thiagocaren@hotmail.com
+
+## 🚀 Projetos e Evidências Técnicas
+
+### 🌐 Conduit (Plataforma Web & API)
+- **Foco:** Testes de integração, validação de dados via SQL e mapeamento de seletores CSS.
+- **Evidências:** - [Teste de API no Postman (200 OK)](Postman_API_Test_Conduit.png.png)
+  - [Relatório de Bug no Jira](Jira_Bug_Detail_Conduit.png.png)
+  - [Gestão do Projeto no TestRail](TestRail_Project_Overview.png.png)
+
+### 🛒 JPetStore (E-commerce)
+- **Foco:** Planejamento e execução de ciclos de teste em e-commerce, com foco em regras de negócio e checkout.
+- **Evidências:** - [Plano de Testes e Bug Report (PDF)](JPetStore_Bug_Report.pdf)
+  - [Checklist de Testes Estruturado (PDF)](Conduit_Test_Checklist.pdf)
+
+---
+
+## 🛠️ Habilidades Técnicas
+- **Abordagem:** Teste Manual (Blackbox/Greybox), Regressão, Smoke, Funcional e UI/UX.
+- **Ferramentas:** Jira, TestRail, Postman, DBeaver (SQL), GitHub, Chrome DevTools.
+- **Idiomas:** Inglês (Avançado), Espanhol (Avançado).
+
+---
+
+## 📫 Contacto
+- **LinkedIn:** [linkedin.com/in/thiagofornel/](https://www.linkedin.com/in/thiagofornel/)
+- **Email:** thiagocaren@hotmail.com
+- **Localização:** São Paulo, Brasil (Disponível para Remoto e Híbrido)
