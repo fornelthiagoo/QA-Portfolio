@@ -4,7 +4,13 @@ Profissional de QA em transição de carreira, combinando sólida experiência e
 
 ---
 
-## 🚀 Projetos e Evidências Técnicas
+## 🚀 Projetos e Evidências Técnicas 
+### 📋 QA Assessment Survey (Automação & Testes de Integração)
+
+- **Foco:** Testes automatizados unitários e de integração com Vitest/TypeScript, seguindo a Pirâmide de Testes.
+- **Evidências & Repositório:**
+  * [Repositório do Projeto](https://github.com/fornelthiagoo/qa-assessment-survey)
+  * [Documentação da Estratégia de Testes (TESTING.md)](https://github.com/fornelthiagoo/qa-assessment-survey/blob/main/TESTING.md)
 
 ### 🌐 Conduit (Plataforma Web & API)
 
